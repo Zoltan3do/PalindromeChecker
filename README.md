@@ -1,0 +1,2 @@
+# PalindromeChecker
+Controllore di palindromi
